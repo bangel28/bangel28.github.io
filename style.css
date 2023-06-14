@@ -1,0 +1,19 @@
+.navbar-brand{
+    font-family: fantasy;
+}
+
+
+.masthead{
+    height: 90%;
+    width: 100%; 
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+      
+}
+.d-grid {
+    position: relative;
+    top: -40px;
+    transition: top 0.3s ease-in-out;
+  }
+  
